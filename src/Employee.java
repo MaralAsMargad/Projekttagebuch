@@ -16,7 +16,7 @@ public class Employee extends Person{
     }
 
     public static void main(String[] args) {
-        Employee ceo = new Employee("Name: " + "Doe","Jane ", 1, 25);
-        System.out.print(ceo.printAll());
+        Employee employee1 = new Employee("Name: " + "Maral","Batchuluun ", 1, 25);
+        System.out.print(employee1.printAll());
     }
 }
