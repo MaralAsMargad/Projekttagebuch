@@ -1,3 +1,3 @@
 # Projekttagebuch
-Maral Batchuluun
-og
+<p>Author: Maral Batchuluun</p>
+<p>LBS Eibiswald | 2APC</p>
