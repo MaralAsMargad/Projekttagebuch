@@ -1,9 +1,12 @@
 # Projekttagebuch
 Author: Maral Batchuluun <br>LBS Eibiswald | 2bAPC
 
-## Installation
+## OOP Projekt
 
-```cmd
+```Klassen
+```Attribute
+```Konstruktor
+```Methoden
 
 git checkout origin/master
 
@@ -14,7 +17,7 @@ git checkout origin/master
 Technologien im Einsatz:
 [![Java][java.com]][java-url]
 
-```php
+```Java
 
 //some source code configuration
 
