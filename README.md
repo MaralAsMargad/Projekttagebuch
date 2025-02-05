@@ -23,3 +23,10 @@ Technologien im Einsatz:
 
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Screenshot
+
+https://github.com/MaralAsMargad/Projekttagebuch/blob/main/Git-SourceTree.jpg
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
