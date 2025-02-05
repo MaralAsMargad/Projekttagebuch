@@ -26,7 +26,7 @@ Technologien im Einsatz:
 
 ## Screenshot
 
-https://github.com/MaralAsMargad/Projekttagebuch/blob/main/Git-SourceTree.jpg
+![Screen Shot]https://github.com/MaralAsMargad/Projekttagebuch/blob/main/Git-SourceTree.jpg
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
